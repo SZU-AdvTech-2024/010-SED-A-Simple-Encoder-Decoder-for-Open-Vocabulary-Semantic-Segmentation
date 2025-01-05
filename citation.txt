@@ -1,0 +1,6 @@
+@inproceedings{REPO010,
+    author = "Xie, Bin and Cao, Jiale and Xie, Jin and Khan, Fahad Shahbaz and Pang, Yanwei",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation}",
+    year = "2024"
+}
